@@ -1,0 +1,7 @@
+{
+  "name": "B1214352葉哲銘_地震速報",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
